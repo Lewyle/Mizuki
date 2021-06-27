@@ -15,6 +15,8 @@
 - Add [this url](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) on heroku buildpacks (need for some modules)
 - Finally deploy the bot
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Iamjanindu/Mizuki/tree/master)
+
 ### Can be found on telegram as [@MizukiDevRobot](https://t.me/MizukiDevRobot)
 
 ### Don't forget to star the repo ⭐
